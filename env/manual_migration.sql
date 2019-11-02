@@ -1,0 +1,1 @@
+alter table schedule_event add column schedule_time time without time zone;
