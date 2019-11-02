@@ -8,10 +8,10 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.noovitec.mpb</groupId>
-	<artifactId>spring</artifactId>
+	<groupId>com.noovitec.gmc</groupId>
+	<artifactId>gmc-spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring</name>
+	<name>gmc-spring</name>
 	<description>Marketplace Brands</description>
 	<packaging>war</packaging>
 
@@ -79,7 +79,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>mpb-api</finalName>
+		<finalName>gmc-api</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
